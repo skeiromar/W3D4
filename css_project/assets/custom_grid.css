@@ -1,0 +1,10 @@
+/* PUT FLUID GRID CODE HERE */
+
+
+.grid_container {
+  display: inline-grid;
+  /* grid-row-gap: 500px; */
+}
+.grid_item {
+  grid-auto-rows: 20px;
+}
